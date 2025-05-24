@@ -1,0 +1,16 @@
+.bdy {
+    background-image: url('https://i.ibb.co/hx6HdJRx/14920092-5ef2-dc49-e15a-1fc3605fe450.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.scl {
+    background-color: #1c1c1c;
+}
+
+h1 {
+    font-family: 'IBM Plex Sans Thai Looped';
+    color: #fefefe;
+    text-align: center;
+}
