@@ -1,16 +1,36 @@
-.bdy {
+body {
     background-image: url('https://i.ibb.co/hx6HdJRx/14920092-5ef2-dc49-e15a-1fc3605fe450.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-}
 
+    line-height: 40%;
+}
 .scl {
-    background-color: #1c1c1c;
+    background-color: #1c1c1c !important;
 }
-
 h1 {
     font-family: 'IBM Plex Sans Thai Looped';
     color: #fefefe;
     text-align: center;
+    font-size: 44px;
+}
+h2 {
+    font-family: 'IBM Plex Sans Thai Looped';
+    color: #fefefe;
+    text-align: center;
+    font-size: 24px;
+}
+hr {
+    border-color: rgb(28,28,28,0.33);
+    border-radius: 3px;
+}
+a {
+    color: #0adeee;
+    text-decoration: none;
+}
+a:hover {
+    color:#00aaff; 
+    text-decoration:none; 
+    cursor:pointer;  
 }
